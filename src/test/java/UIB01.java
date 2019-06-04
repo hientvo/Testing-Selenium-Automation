@@ -20,10 +20,10 @@ public class UIB01 {
         driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
     }
 
-    @Test
-    public void selectCheckboxes() {
-        checkBoxLnk.click();
-    }
+//    @Test
+//    public void selectCheckboxes() {
+//        checkBoxLnk.click();
+//    }
 
 
 
